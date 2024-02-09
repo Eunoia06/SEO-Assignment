@@ -1,0 +1,12 @@
+SEO stands for Search Engine Optimization 
+It is a set of rules for optimizing your website to achieve higher rankings in search engine's organic results. 
+The most important SEO tasks involve creating helpful content that will make users happy, promoting your website to gain search engines trust, and offering a great user experience.
+
+The importance of SEO is multi-faceted:
+
+1.Increase Visibility and Web Traffic : SEO can help you get free targeted traffic from search engines. If your website appears in the top positions for related searches, you're more likely to get a portion of the traffic.
+2.Enhance User Experience (UX): Good SEO practices improve the user experience and usability of a website.
+3.Build Credibility: Users trust search engines, and having a presence in the top positions for the keywords the user is searching increases the website’s trust.
+4.Social Promotion: People who find your website by searching Google or Bing are more likely to promote it on Facebook, Twitter, or other social media channels.
+5.Smooth Running of a Big Website: Websites with more than one author can benefit from SEO directly and indirectly. Their direct benefit is increased organic traffic, and their indirect benefit is having a common framework (checklists) to use before publishing content on the site.
+6.Competitive Advantage: If two websites are selling the same thing, the SEO optimized website is more likely to have more customers and make more sales.

@@ -1,0 +1,18 @@
+A favicon is a small, square icon associated with a particular website or web page. 
+The term favicon combines two words: "favorite" and "icon". So, a favicon is your company's favorite icon. It's a symbol that represents your brand or website. 
+
+Favicons are typically 16x16 pixels and are displayed in various places such as:
+- Browser tabs next to the page title
+- Bookmark bars
+- Address bars
+- Browser history
+- Search results alongside the page URL
+
+For example, if you open multiple tabs in your browser, you'll see small icons representing each website next to the page title. These are favicons.
+
+Here's a simple illustration of how to add a favicon to your HTML:
+
+<html
+<head>
+    <link rel="icon" href="favicon.ico" type="image/x-icon">
+</head>
